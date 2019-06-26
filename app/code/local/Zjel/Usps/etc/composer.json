@@ -1,0 +1,15 @@
+{
+    "name": "Zjel/Usps",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": " USPS Remove Transit Time",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"Zeknah Joy Lecaros",
+            "email":"zjlecaros@gmail.com"
+        }
+    ]
+}

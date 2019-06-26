@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Zjel_Usps>
+            <version>1.0.0</version>
+        </Zjel_Usps>
+    </modules>
+    <global>
+        <models>
+            <usa>
+                <rewrite>
+                    <shipping_carrier_usps>Zjel_Usps_Model_Usa_Shipping_Carrier_Usps</shipping_carrier_usps>
+                </rewrite>
+            </usa>
+        </models>
+    </global>
+</config>

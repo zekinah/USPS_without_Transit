@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Zjel_Usps>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Zjel_Usps>
+    </modules>
+</config>
